@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="15dp"
+    android:id="@+id/layout_loai_sach">
+
+    <LinearLayout
+        android:layout_marginLeft="40dp"
+        android:layout_width="259dp"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tv_ma_loai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mã loại"
+            android:textSize="25sp" />
+
+        <TextView
+            android:id="@+id/tv_ten_loai"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Tên loại"
+            android:textSize="25sp" />
+    </LinearLayout>
+
+    <ImageView
+        android:id="@+id/img_xoa_ls"
+        android:layout_marginTop="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/outline_delete_black_48" />
+
+
+</LinearLayout>

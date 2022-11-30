@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+
+    tools:context=".MainActivity">
+
+    <androidx.drawerlayout.widget.DrawerLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/drawer_layout_main"
+        >
+        
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical"
+            >
+            <com.google.android.material.appbar.MaterialToolbar
+                android:layout_width="match_parent"
+
+                android:layout_height="?attr/actionBarSize"
+                android:id="@+id/toolbar_main"
+                />
+            <androidx.fragment.app.FragmentContainerView
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1"
+                android:id="@+id/fragment_container_view_main"
+                />
+        </LinearLayout>
+        
+        <com.google.android.material.navigation.NavigationView
+            android:id="@+id/nav_view_main"
+            android:layout_width="340dp"
+            android:layout_height="match_parent"
+            app:headerLayout="@layout/header_layout"
+            android:foregroundGravity="right"
+            android:fitsSystemWindows="true"
+            android:layout_gravity="start"
+            app:menu="@menu/menu_item_main"/>
+
+
+    </androidx.drawerlayout.widget.DrawerLayout>
+
+</LinearLayout>

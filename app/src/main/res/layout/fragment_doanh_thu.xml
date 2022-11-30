@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context=".Fragment.DoanhThuFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="doanh thu : "
+        android:textSize="30dp"
+
+        android:id="@+id/txtDoangThu"/>
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Từ ngày  : "
+        android:textSize="16dp"
+
+        />
+    <EditText
+        android:id="@+id/ed_tungay"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_width="100dp"
+        android:text="Từ Ngày "
+        android:backgroundTint="@color/teal_200"
+        android:layout_gravity="center|left"
+        android:id="@+id/btn_tungay"
+        android:layout_height="wrap_content"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="đến ngày  : "
+        android:textSize="16dp"
+
+        />
+    <EditText
+        android:id="@+id/ed_denNgay"
+        android:layout_width="200dp"
+        android:layout_height="wrap_content"/>
+    <Button
+        android:layout_width="100dp"
+        android:text="Đến Ngày  "
+        android:backgroundTint="@color/teal_200"
+
+        android:id="@+id/btn_denNgay"
+        android:layout_height="wrap_content"
+        />
+    <Button
+        android:layout_width="wrap_content"
+        android:text="Doanh thu "
+        android:backgroundTint="@color/teal_200"
+
+        android:id="@+id/btn_doanhthu"
+        android:layout_height="wrap_content"
+        />
+
+
+</LinearLayout>

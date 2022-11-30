@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/drawable-hdpi/ic_add_user.xml" value="0.21197916666666666" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/drawable-hdpi/ic_huy.xml" value="0.15" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/drawable-hdpi/ic_save.xml" value="0.15" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/drawable-v24/ic_add.xml" value="0.2111111111111111" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/activity_dangky.xml" value="0.20923913043478262" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/activity_hello.xml" value="0.1490036231884058" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/activity_login.xml" value="0.20923913043478262" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/activity_main.xml" value="0.21467391304347827" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/dia_log_sua_sach.xml" value="0.14945652173913043" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/dia_log_sua_thanh_vien.xml" value="0.152" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/dialog_add_pm.xml" value="0.17074275362318841" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_doanh_thu.xml" value="0.1490036231884058" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_doi_mat_khau.xml" value="0.12239583333333333" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_home.xml" value="0.13858695652173914" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_quan_ly_loai_sach.xml" value="0.14945652173913043" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_quan_ly_phieu_muon.xml" value="0.14945652173913043" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_quan_ly_sach.xml" value="0.12239583333333333" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_quan_ly_thanh_vien.xml" value="0.14945652173913043" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_quanly_pm.xml" value="0.2028985507246377" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_them_ng_dung.xml" value="0.1490036231884058" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/fragment_top10.xml" value="0.14945652173913043" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/header_layout.xml" value="0.21467391304347827" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/item_recy_top10_sach.xml" value="0.14945652173913043" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/item_recy_view_loai_sach.xml" value="0.13385416666666666" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/item_recy_view_phieu_muon.xml" value="0.13385416666666666" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/item_recy_view_sach.xml" value="0.13385416666666666" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/item_recy_view_thanh_vien.xml" value="0.13385416666666666" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/layout/recy_item_qlpm.xml" value="0.17074275362318841" />
+        <entry key="..\:/DU_AN_MAU/Assignment/app/src/main/res/menu/menu_item_main.xml" value="0.259375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

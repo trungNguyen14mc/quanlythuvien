@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal"
+    android:padding="15dp">
+
+    <TextView
+        android:id="@+id/tv_ten_sach_top10"
+        android:layout_width="250dp"
+        android:layout_height="wrap_content"
+        android:text="tên sach"
+        android:textSize="20sp" />
+    <TextView
+        android:gravity="center"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        android:text="số lượng"
+        android:id="@+id/tv_soluong"
+         />
+
+</LinearLayout>
